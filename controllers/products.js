@@ -37,9 +37,9 @@ const getAllProducts = async (req,res) => {
     apiData = apiData.skip(skip).limit(limit);
     console.log(queryObject);
 
-    const mydata = await apiData;
+    const Products = await apiData;
     res.status(200).json({
-        mydata,
+        Products,
         nbHits: mydata.length
     });
 };
