@@ -1,0 +1,38 @@
+[
+    {
+        "name":"iphone",
+        "price":154,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone10",
+        "price":184,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"iwatch",
+        "price":104,
+        "featured":false,
+        "company":"apple"
+    },
+    {
+        "name":"s23",
+        "price":154,
+        "feature":true,
+        "company":"samsung"
+    },
+    {
+        "name":"redmi note8 pro",
+        "price":80,
+        "featured":false,
+        "company":"mi"
+    },
+    {
+        "name":"e",
+        "price":154,
+        "featured":true,
+        "company":"dell"
+    }
+]
